@@ -1,6 +1,6 @@
 # IMDB Movie Analysis 
 
-[View the Rendered HTML Report](https://htmlpreview.github.io/?https://raw.githubusercontent.com/trannnle/R-Projects/main/IMDB%20Movie%20Analysis/IMDB_Movie_Analysis.html)
+[View the Rendered HTML Report](https://htmlpreview.github.io/?https://github.com/trannnle/R-Projects/IMDB%Movie%Analysis/main/IMDB_Movie_Analysis.html)
 
 
 
