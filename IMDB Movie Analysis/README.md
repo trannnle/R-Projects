@@ -1,4 +1,6 @@
-# IMDB Movie Analysis
+# IMDB Movie Analysis 
+[View the Rendered HTML Report](https://htmlpreview.github.io/?https://github.com/trannnle/trannnle.github.io/blob/main/IMDB_Movie_Analysis.html)
+
 
 ## Tech Stack
 
